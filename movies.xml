@@ -1,0 +1,23 @@
+<movies>
+   <movie>
+       <title>LordOfTheRings</title>
+       <type>Fantasy</type>
+   </movie>
+   <movie>
+       <title>Matrix</title>
+       <type>SciFi</type>
+   </movie>
+   <movie>
+       <title>Friends</title>
+       <type>Comedy</type>
+   </movie>
+   <movie>
+       <title>FastFurious</title>
+       <type>Action</type>
+   </movie>
+   <movie>
+       <title>Intouchables</title>
+       <type>Drama</type>
+   </movie>
+</movies>
+
